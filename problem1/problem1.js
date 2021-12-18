@@ -1,4 +1,4 @@
-function primeX(max) {
+function primeX(number) {
   // your code here
 }
 
